@@ -1,0 +1,9 @@
+com\example\manageuser\controller\UserController.class
+com\example\manageuser\repository\UserFollowerRepository.class
+com\example\manageuser\service\UserFollowerService.class
+com\example\manageuser\service\UserService.class
+com\example\manageuser\ManageUserApplication.class
+com\example\manageuser\controller\UserFollowerController.class
+com\example\manageuser\entity\User.class
+com\example\manageuser\repository\UserRepository.class
+com\example\manageuser\entity\UserFollower.class
